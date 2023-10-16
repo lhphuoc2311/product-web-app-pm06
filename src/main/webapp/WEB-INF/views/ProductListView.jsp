@@ -51,6 +51,8 @@
             </table>
             <a href="createProduct">Create a new product</a>
 
+            <!--phuoctest-->
+
             <!--footer-->
 
             <jsp:include page="footer.jsp"></jsp:include>
